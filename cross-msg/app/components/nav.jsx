@@ -11,7 +11,7 @@ export default function Nav() {
      <Metric color="blue" className='mr-8'>
         MSG
      </Metric>
-    <ConnectWallet />
+     <ConnectWallet switchToActiveChain={true} />
     </div>
   )
 }

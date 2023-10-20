@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@thirdweb-dev/chains": "^0.1.55",
     "@thirdweb-dev/react": "^4.0.7",
     "@thirdweb-dev/sdk": "^4.0.6",
     "@tremor/react": "^3.9.2",
